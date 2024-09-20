@@ -1,0 +1,73 @@
+h1, #I, #II, #III {
+    color: red;
+}
+
+h1 {
+    color: red;
+}
+
+#Content {
+    color: rgb(97, 97, 97);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* @import 'css/style.css'; */
+
+/* селектор {
+    свойство: значение;
+    свойство: значение;
+    свойство: значение;
+} */
+
+/* селектор тега */
+/* p mark {
+    color: #b4f558b0;
+}
+
+h1, h2, h3 {
+    text-align: center;
+} */
+
+/* селектор класса */
+/* .first {
+    color: blue;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: italic;
+    text-decoration: line-through;
+    text-transform: capitalize;
+}
+
+/* селектор уникального id */
+/* #second {
+    color: pink;
+}
+
+.marked {
+    color: yellow;
+} */ 
