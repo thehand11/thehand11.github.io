@@ -1,0 +1,20 @@
+html,
+body {
+    background-color: rgba(10, 10, 10, 1);
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    /* Сохраняет всё изображение, подгоняя его под контейнер */
+    object-position: center;
+    /* Центрирует изображение */
+}
